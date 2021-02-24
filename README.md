@@ -632,7 +632,7 @@
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -794,6 +794,9 @@
 
 ## Go 
 
+- [osx-callhistory-decryptor](https://github.com/rusq/osx-callhistory-decryptor) - macOS (incl big sur) call history decryptor/converter to CSV format
+- [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [SND](https://github.com/Jamesits/SND) - Minimal authoritative PTR (rDNS, reverse DNS) resolver with automatic generation of records.
 - [frown](https://github.com/blasrodri/frown) - Connection monitoring à la lsof written in Go
 - [pencode](https://github.com/ffuf/pencode) - Complex payload encoder
@@ -1290,7 +1293,7 @@
 - [torproxy](https://github.com/okkur/torproxy) - Caddy plugin to enable easy web to tor proxying
 - [traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
-- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
 - [swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
 - [godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
@@ -1883,6 +1886,7 @@
 
 ## JavaScript 
 
+- [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
@@ -2037,7 +2041,6 @@
 - [homebridge-http-switch](https://github.com/Supereg/homebridge-http-switch) - Powerful http switch for Homebridge: https://github.com/homebridge/homebridge
 - [homebridge-broadlink-rm](https://github.com/lprhodes/homebridge-broadlink-rm) - Broadlink RM Mini and Pro plugin for homebridge: https://github.com/nfarina/homebridge
 - [homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
-- [homebridge-ifttt](https://github.com/ilcato/homebridge-ifttt) - Homebridge plugin for IFTTT Maker channel
 - [lovelace-home-feed-card](https://github.com/gadgetchnnel/lovelace-home-feed-card) - A custom Lovelace card for displaying a combination of persistent notifications, calendar events, and entities in the style of a feed.
 - [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -3457,6 +3460,7 @@
 
 ## Python 
 
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [geotag2kml](https://github.com/forensenellanebbia/geotag2kml) - Creates a Google Earth .KML file from geotagged photos/videos
 - [PhotoScript](https://github.com/RhetTbull/PhotoScript) - Automate Apple / MacOS Photos app with python. Wraps applescript calls in python to allow automation of Photos from python code.
@@ -3518,7 +3522,7 @@
 - [zha-map](https://github.com/zha-ng/zha-map) - Build ZHA network topology map.
 - [alfred-fuzzy](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper for Alfred 3+ workflows
 - [alfred-workflows-scientific](https://github.com/andrewning/alfred-workflows-scientific) - A collection of Alfred workflows targeting scientific applications
-- [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-End Framework for building natural language search interfaces to data by utilizing Transformers and the State-of-the-Art of NLP. Supporting DPR, Elasticsearch, HuggingFace’s Modelhub and much more!
+- [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
 - [dnstap-receiver](https://github.com/dmachard/dnstap-receiver) - Dnstap streams receiver in Python
 - [opensanctions](https://github.com/pudo/opensanctions) - An open database of international sanctions data, persons of interest and politically exposed persons
 - [flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
@@ -3564,7 +3568,7 @@
 - [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [json2kml](https://github.com/dmrsouza/json2kml) - Python scripts to export Google Maps saved/starred places to KML, CSV, Sygic
+- [json2kml](https://github.com/d-me3/json2kml) - Python scripts to export Google Maps saved/starred places to KML, CSV, Sygic
 - [photosmeta](https://github.com/RhetTbull/photosmeta) - Extract known metadata from Apple's MacOS Photos library and export this metadata to EXIF/IPTC/XMP fields in the photo file For example: Photos knows about Faces (personInImage) but does not preserve this data when exporting the original photo.
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -4602,6 +4606,7 @@
 
 ## Ruby 
 
+- [gush](https://github.com/chaps-io/gush) - Fast and distributed workflow runner using ActiveJob and Redis
 - [mihari](https://github.com/ninoseki/mihari) - A helper to run OSINT queries & manage results continuously
 - [rmate](https://github.com/textmate/rmate) - Edit files from an ssh session in TextMate
 - [umessage](https://github.com/cvincent/umessage) - A web-based bridge for iMessage
@@ -5560,6 +5565,7 @@
 
 ## TypeScript 
 
+- [survey-creator](https://github.com/surveyjs/survey-creator) - Online Survey Creator / Form Builder. See it in action:
 - [mapper](https://github.com/geo6/mapper) - Display (and query) geographical data (WMS, WMTS, GeoJSON, KML, GPX, CSV).
 - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
@@ -5590,6 +5596,7 @@
 - [peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [homebridge-ifttt](https://github.com/ilcato/homebridge-ifttt) - Homebridge plugin for IFTTT Maker channel
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [jupyterlab-interactive-dashboard-editor](https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor) - A drag-and-drop dashboard editor for JupyterLab
