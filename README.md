@@ -2832,6 +2832,7 @@
 
 ## Others 
 
+- [arbal-starred](https://github.com/arbal/arbal-starred) - My/Arbal's starred repositories on GitHub
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
 - [Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
@@ -4861,6 +4862,7 @@
 
 ## Shell 
 
+- [bw-cache-update](https://github.com/luckman212/bw-cache-update) - Script to resync Bitwarden secrets in the background on a schedule. Meant to be used with https://github.com/blacs30/bitwarden-alfred-workflow
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [docker-vdirsyncer](https://github.com/kaergel/docker-vdirsyncer) - A docker container which syncs your CalDAV/CardDAV calendars/addressbooks periodically
 - [docker_swarm_helpers](https://github.com/rdxmb/docker_swarm_helpers) - several helper scripts to administrate docker swarm
